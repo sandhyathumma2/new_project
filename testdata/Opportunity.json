@@ -1,0 +1,6 @@
+{
+ "createOpportunity": {"opportunityName":"New Biz Oppty for Johnson Investments","accountName":"Johnson Investments Ltd",
+ "stage":"Sales Qualification","type":"New Business","probability":"10","Amount":"100000",
+  "risksCompetitionComments":"NA at the moment"} ,
+  "createProduct" : {"productCheckbox":"Installation Support","Quantity":"3"}
+}

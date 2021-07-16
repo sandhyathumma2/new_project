@@ -1,0 +1,6 @@
+{
+ "contacts": {"firstName":"Jack","lastName":"Nicholson","accountName":"Johnson Investments Ltd","phone":"12240124567","mobile":"12240125678",
+ 
+  "email":"jack.n@johnsoninvest.com","designationLevel":"Dir","mailingStreet":"122 Downtown Street",
+  "mailingCity":"Chicago","mailingStateProvince":"IL","mailingZipPostalCode":"60605","mailingCountry":"US"}   
+}

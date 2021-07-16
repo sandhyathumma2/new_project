@@ -1,0 +1,10 @@
+{
+  "leadsToOpportunity": {"leadStatus":"Open","salutation":"Mr.","firstName":"John","lastName":"Weslly","phone":"4528654251",
+  "Company":"Johnson Investments Ltd","fax":"4528654251","title":"New Lead Creation","website":"Johnson Investments Ltd",
+  "leadSource":"Advertisement","email":"@mailinator.com","ownership":"Public","revenueRange":"Type 1",
+  "contactlocation":"xxxxxxxx","bdm":"Gary Smith","businessUnit":"Cigniti Inc",
+  "campaign":"Generic","verticalGrouping":"BFS","SubVertical":"Financial Services","Vertical":"Banking & Financial Services",
+  "ISTrepresentative":"Web Lead","Revenue":"1000000","rating":"Warm","Region":"USA","street":"31988 US Highway 19 North",
+  "city":"Palm Harbor","stateProvince":"FL","zipPostalCode":"34684","country":"United State"}
+ 
+}

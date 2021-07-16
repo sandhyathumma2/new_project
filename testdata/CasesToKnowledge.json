@@ -1,0 +1,8 @@
+{
+ "caseToKnowledge": {"ownerName":"Srinivas","contactName":"Mohant",
+ "accountName":"liza","status":"New","origin":"Phone",
+  "priority":"Medium","type":"Problem","caseReason":"New Problem","subject":"Test",
+  "description":"Test","comments":"Test","webEmail":"lopamudra.singh@cigniti.com", "webName":"lopa",
+  "webCompany":"Cigniti","webPhone":"7207424035","name":"Mohant","subject1":"Call","status1":"not started",
+  "priority1":"Normal","caseStatus":"Closed","caseReason":"Existing problem"}
+}

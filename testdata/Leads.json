@@ -1,0 +1,7 @@
+{
+  "leads": {"firstName":"John","lastName":"Slater","phone":"12212346789","Company":"Johnson Investments Ltd","leadSource":"Advertisement",
+  "campaign":"Generic","verticalGrouping":"BFS","SubVertical1":"Financial Services","Vertical":"Banking & Financial Services",
+  "ISTrepresentative":"Web Lead","Revenue":"1000000","rating":"Warm","Region":"USA","street":"122 Downtown Street",
+  "city":"Chicago","stateProvince":"IL","zipPostalCode":"60605","country":"US"}
+ 
+}
